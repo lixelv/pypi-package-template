@@ -1,4 +1,4 @@
-# Python Package Template
+# pypi package template
 
 [![GitHub Workflow Status](https://img.shields.io/badge/CI/CD-Automated-success?style=flat-square&logo=github)](https://github.com/features/actions)
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
