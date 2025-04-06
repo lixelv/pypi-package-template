@@ -1,7 +1,7 @@
 # Python Package Template
 
-[![GitHub Workflow Status](https://img.shields.io/badge/CI/CD-Automated-success?style=flat-square&logo=github)](https://github.com/features/actions)  
-[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)  
+[![GitHub Workflow Status](https://img.shields.io/badge/CI/CD-Automated-success?style=flat-square&logo=github)](https://github.com/features/actions)
+[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![PyPI](https://img.shields.io/badge/PyPI-Package-3775A9?style=flat-square&logo=pypi)](https://pypi.org/)
 
 A streamlined template for creating Python packages with an automated CI/CD pipeline.
