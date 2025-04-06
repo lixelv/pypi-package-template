@@ -22,8 +22,8 @@ A streamlined template for creating Python packages with an automated CI/CD pipe
 
     - Update `pyproject.toml` with your package metadata (name, author, description)
     - Version is automatically set from GitHub release tags during release publishing
-    - Edit `requirements.txt` to include your runtime dependencies
-    - Place your code inside your package folder (e.g., `your_package/`)
+    - Edit `requirements.txt` to include your package dependencies
+    - Place your code inside your package folder (e.g., `your_package/`, in this example `summing_lixelv/`)
 
 3. **Set up CI/CD**
 
